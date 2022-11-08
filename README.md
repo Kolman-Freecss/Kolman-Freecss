@@ -21,5 +21,5 @@
 
 ### Achievements
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolman-freecss" alt="kolman-freecss" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolman-freecss&row=2&column=3&no-frame=true&no-bg=true&theme=dark_lover" alt="kolman-freecss" /></a> </p>
 
