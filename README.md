@@ -1,4 +1,4 @@
-### 👾  Hi I'm Sergio, this is my little space 👾
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=%F0%9F%91%BE+Hi+I'm+Sergio+%F0%9F%91%BE;%F0%9F%91%BE+This+is+my+little+space+%F0%9F%91%BE;%F0%9F%91%BE+I+have+some+interesting+things+%F0%9F%91%BE)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=LinkedIn&style=flat-square&logoColor=blue)](https://www.linkedin.com/in/sergiomartinezroman/)
 
