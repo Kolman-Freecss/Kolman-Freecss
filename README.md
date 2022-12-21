@@ -18,8 +18,11 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
   </a> </p>
 
-
 ### Achievements
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolman-freecss&row=2&column=3&no-frame=true&no-bg=true&theme=dark_lover" alt="kolman-freecss" /></a> </p>
+
+### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kolman-Freecss&show_icons=true&theme=tokyonight&hide=contribs)
 
