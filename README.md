@@ -26,5 +26,9 @@
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kolman-Freecss&show_icons=true&theme=tokyonight&hide=contribs)
-
+<a href="https://www.linkedin.com/in/sergiomartinezroman/">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolman-Freecss&layout=donut&hide=shaderlab,hlsl,makefile,html&hide_progress=true" />
+</a>
+<a href="https://www.linkedin.com/in/sergiomartinezroman/">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Kolman-Freecss&show_icons=true&theme=dracula&hide=contribs" />
+</a>
