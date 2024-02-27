@@ -1,9 +1,19 @@
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<div align="center">
+
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=%F0%9F%91%BE+Hi+I'm+Sergio+%F0%9F%91%BE;%F0%9F%91%BE+This+is+my+little+space+%F0%9F%91%BE;%F0%9F%91%BE+I+have+some+interesting+things+%F0%9F%91%BE)](https://git.io/typing-svg)
 
 コルマン・フリークス 
 <img src="assets/kyubey.gif" height="40" />
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=LinkedIn&style=flat-square&logoColor=blue)](https://www.linkedin.com/in/sergiomartinezroman/)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=blue)](https://www.linkedin.com/in/sergiomartinezroman/)
+[![AniList](https://img.shields.io/static/v1?label=AniList&message=%20&color=red&style=flat-square&logo=anilist&logoColor=red)](https://anilist.co/user/KolmanFreecss/animelist)
+
+</div>
 
 <p align="center">
 <img src="assets/solo-leveling.gif" height="100" />
@@ -12,7 +22,7 @@
 </p>
 
 <pre>
-<p align="center">
+<p align="center" style="font-family:'Exo 2', sans-serif;font-size:13px">
     💻 Software Engineer - Master degree in Video Game Programming
     ❤️ WoW | Games, Anime, Sport
     💬 Videogame develop | AI
@@ -28,7 +38,11 @@
 <img src="assets/one-piece-kaido.gif" height="100" />
 </p>
 
+<div align="center" style="font-family:'Exo 2', sans-serif">
+
 ### Languages and Tools
+
+</div>
 
 <p align="center"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -39,13 +53,21 @@
     </a> 
 </p>
 
+<div align="center" style="font-family:'Exo 2', sans-serif">
+
 ### Achievements
+
+</div>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kolman-freecss&row=2&column=3&no-frame=true&no-bg=true&theme=dark_lover" alt="kolman-freecss" /></a> 
 </p>
 
+<div align="center" style="font-family:'Exo 2', sans-serif">
+
 ### Stats
+
+</div>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sergiomartinezroman/">
