@@ -1,14 +1,16 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=%F0%9F%91%BE+Hi+I'm+Sergio+%F0%9F%91%BE;%F0%9F%91%BE+This+is+my+little+space+%F0%9F%91%BE;%F0%9F%91%BE+I+have+some+interesting+things+%F0%9F%91%BE)](https://git.io/typing-svg)
 
-コルマン・フリークス
+コルマン・フリークス 
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=LinkedIn&style=flat-square&logoColor=blue)](https://www.linkedin.com/in/sergiomartinezroman/)
 
-- 🏢 Software Engineer - Master degree in Video Game Programming
-- ❤️ WoW | Games, Anime, Sport
-- 💬 Videogame develop | AI
-- 👯 I’m looking to collaborate on videogames or AI 
-- 💥 Pro Player
+<pre>
+    💻 Software Engineer - Master degree in Video Game Programming
+    ❤️ WoW | Games, Anime, Sport
+    💬 Videogame develop | AI
+    👯 I’m looking to collaborate on videogames or AI 
+    💥 Pro Player
+</pre>
 
 
 ### Languages and Tools
@@ -27,8 +29,8 @@
 ### Stats
 
 <a href="https://www.linkedin.com/in/sergiomartinezroman/">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolman-Freecss&layout=donut&hide=shaderlab,hlsl,makefile,html&hide_progress=true" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kolman-Freecss&layout=donut&hide=shaderlab,hlsl,makefile,html&hide_progress=true&theme=shadow_red" />
 </a>
 <a href="https://www.linkedin.com/in/sergiomartinezroman/">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Kolman-Freecss&show_icons=true&theme=dracula&hide=contribs" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Kolman-Freecss&show_icons=true&theme=shadow_red&hide=contribs" />
 </a>
