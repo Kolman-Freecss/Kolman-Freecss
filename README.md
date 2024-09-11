@@ -44,7 +44,6 @@
 
 </div>
 
-<p align="center"> 
 
 <div align="center" style="font-family:'Exo 2', sans-serif">
     
