@@ -25,7 +25,7 @@
 <p align="center" style="font-family:'Exo 2', sans-serif;font-size:13px">
     💻 Software Engineer - Master degree in Video Game Programming
     ❤️ WoW | Games, Anime, Sport
-    💬 Videogame develop | AI
+    💬 Videogame develop | AI | DevOps
     👯 I’m looking to collaborate on videogames | AI | DevOps
     💥 Pro Player
 </p>
