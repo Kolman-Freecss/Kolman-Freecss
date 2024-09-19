@@ -26,7 +26,7 @@
     💻 Software Engineer - Master degree in Video Game Programming
     ❤️ WoW | Games, Anime, Sport
     💬 Videogame develop | AI
-    👯 I’m looking to collaborate on videogames or AI 
+    👯 I’m looking to collaborate on videogames | AI | DevOps
     💥 Pro Player
 </p>
 </pre>
