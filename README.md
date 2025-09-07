@@ -210,8 +210,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Kolman-Freecss&icon=0&color=4">
-    <img src="https://visitcount.itsvg.in/api?id=Kolman-Freecss&icon=0&color=4" />
-  </a>
-</p>
+
+##  Visitor Counter
+
+![Profile views](https://komarev.com/ghpvc/?username=Kolman-Freecss&color=00BFFF&style=for-the-badge&label=VISITORS)
