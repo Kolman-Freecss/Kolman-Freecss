@@ -25,9 +25,9 @@
 
     
 <pre>
-🧠 Head of R&D · Tech Lead · Solutions Architect (MSc in Video Game Programming)
+🧠 Head of R&D · Tech Lead · Solutions Architect · AI Architect / Evangelist (MSc in Video Game Programming)
     
-⚙️ AI | AWS | DevOps · Open Source contributor · GitHub Developer Program
+⚙️ AI | Cloud | DevOps · Open Source contributor · GitHub Developer Program
     
 📨 I run an active newsletter about AI, Architecture and Cloud
     
