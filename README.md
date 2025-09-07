@@ -78,81 +78,80 @@
 <div align="center" style="font-family:'Exo 2', sans-serif">
 
 ## 🧰 Tech Stack
-</div>
 
-<div align="center">
+### 🧑‍💻 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
+![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🧑‍💻 Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="30" alt="Lua" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="30" alt="Bash" />
 
-### 🧩 Backend & APIs
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="30" alt="Spring" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="NodeJS" />
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="30" alt="Express" />
-<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" height="30" alt="Hibernate" />
-<img src="https://fastapi.tiangolo.com/img/logo-white.svg" height="30" alt="FastAPI" />
+### 🧩 Backend & APIs  
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### 🎨 Frontend
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" height="30" alt="Angular" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" alt="React" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+### 🎨 Frontend  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🧠 Data & AI
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="TensorFlow" />
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="30" alt="PyTorch" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
-<img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" height="18" alt="MLflow" />
-<img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" height="28" alt="LangChain" />
-<img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" height="30" alt="Spark" />
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="30" alt="Kafka" />
+### 🧠 Data & AI  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)&nbsp;
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)&nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### ☁️ Cloud & Infra
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="30" alt="AWS" />
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="30" alt="Azure" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="30" alt="GCP" />
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" height="30" alt="Vercel" />
-<img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="30" alt="Cloudflare" />
-<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="30" alt="Nginx" />
+### ☁️ Cloud & Infra  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-### 🏗️ DevOps & CI/CD
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="Docker" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="30" alt="Kubernetes" />
-<img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" height="30" alt="Helm" />
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="30" alt="Jenkins" />
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="30" alt="GitHub Actions" />
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" height="30" alt="GitLab CI" />
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="30" alt="Terraform" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="Git" />
+### 🏗️ DevOps & CI/CD  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)&nbsp;
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🗄️ Databases & Storage
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="30" alt="Postgres" />
-<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" height="30" alt="Redis" />
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="30" alt="MongoDB" />
-<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height="30" alt="MariaDB" />
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="30" alt="MySQL" />
-<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" height="30" alt="Supabase" />
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" alt="SQLite" />
+### 🗄️ Databases & Storage  
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧩 Observability
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="30" alt="Grafana" />
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="30" alt="Prometheus" />
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" height="30" alt="Elasticsearch" />
+### 🧩 Observability  
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### 🎮 Game Engines
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="30" alt="Unity" />
-<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" height="30" alt="Unreal" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="30" alt="Godot" />
 
-</div>
+### 🎮 Game Engines  
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/UnrealEngine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)&nbsp;
+![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=black)
+
+
 
 <div align="center" style="font-family:'Exo 2', sans-serif">
 
